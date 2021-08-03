@@ -28,7 +28,7 @@ twitter_username: aravy100
 github_username:  aravy100
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
