@@ -28,7 +28,7 @@ twitter_username: aravy100
 github_username:  aravy100
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
